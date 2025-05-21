@@ -27,4 +27,16 @@ The schema includes the following tables:
 
 ## 📁 File Structure
 
+## 📊 Sample Queries
+
+Explore sample SQL queries used to answer gameplay-inspired questions, such as:
+
+- Top 10 most expensive recipes
+- Budget-friendly meals
+- Recipes using specific dye colors or ingredients
+- Highest heart-recovery meals
+
+[📂 View sample SQL queries](./queries/zelda_queries.sql)
+
+
 
