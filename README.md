@@ -15,7 +15,8 @@ The schema includes the following tables:
 - `recipe_ingredients`: Many-to-many join table with quantities
 - `cooking_methods`, `dyes`, `types`: Lookup tables for normalization
 
-> See `zelda_schema.sql` for the full CREATE TABLE statements.
+[📄 View the full SQL schema](./zelda_schema.sql)
+
 
 ## 🛠️ Tech Used
 
