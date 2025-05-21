@@ -30,19 +30,6 @@ This diagram outlines the structure of the Zelda Recipe Database, including prim
 - ER Diagram 
 - CSV sample data
 
-## 📁 File Structure
-
-zelda-recipe-database/
-│
-├── zelda_schema.sql
-├── queries/
-│   └── zelda_queries.sql
-├── presentation/
-│   └── Zelda_SQL_Presentation.pdf
-└── assets/
-    └── zelda_erd.png
-
-
 ## 📊 Sample Queries
 
 Explore sample SQL queries used to answer gameplay-inspired questions, such as:
