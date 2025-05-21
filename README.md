@@ -17,6 +17,11 @@ The schema includes the following tables:
 
 [📄 View the full SQL schema](./zelda_schema.sql)
 
+## 🧭 Entity Relationship Diagram
+
+This diagram outlines the structure of the Zelda Recipe Database, including primary keys, foreign keys, and relationships between tables.
+
+![Zelda Schema ERD](./assets/zelda_erd.png)
 
 ## 🛠️ Tech Used
 
