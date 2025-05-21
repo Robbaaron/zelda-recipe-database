@@ -32,6 +32,17 @@ This diagram outlines the structure of the Zelda Recipe Database, including prim
 
 ## 📁 File Structure
 
+zelda-recipe-database/
+│
+├── zelda_schema.sql
+├── queries/
+│   └── zelda_queries.sql
+├── presentation/
+│   └── Zelda_SQL_Presentation.pdf
+└── assets/
+    └── zelda_erd.png
+
+
 ## 📊 Sample Queries
 
 Explore sample SQL queries used to answer gameplay-inspired questions, such as:
@@ -42,6 +53,13 @@ Explore sample SQL queries used to answer gameplay-inspired questions, such as:
 - Highest heart-recovery meals
 
 [📂 View sample SQL queries](./queries/zelda_queries.sql)
+
+## 🎤 Project Presentation
+
+View the final slide deck used to present this project, highlighting database design, normalization process, and sample queries.
+
+[📽️ View Presentation Slides (PDF)](./presentation/Zelda_SQL_Presentation.pdf)
+
 
 
 
