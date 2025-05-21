@@ -27,8 +27,8 @@ This diagram outlines the structure of the Zelda Recipe Database, including prim
 
 - SQL (PostgreSQL / MySQL compatible)
 - DataGrip (for design and testing)
-- ER Diagram (optional)
-- CSV sample data (optional)
+- ER Diagram 
+- CSV sample data
 
 ## 📁 File Structure
 
