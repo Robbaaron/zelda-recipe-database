@@ -58,7 +58,7 @@ Explore sample SQL queries used to answer gameplay-inspired questions, such as:
 
 View the final slide deck used to present this project, highlighting database design, normalization process, and sample queries.
 
-[📽️ View Presentation Slides (PDF)](./presentation/Zelda_SQL_Presentation.pdf)
+[📽️ View Presentation Slides (PDF)](./presentation/zelda_presentation.pdf)
 
 
 
